@@ -15,7 +15,7 @@ By implementing a local **Pre-Tool Hook**, we can intercept these commands befor
 ## The Context
 I wrote a detailed breakdown of the discovery process, the token math, and the "ironic bugs" I encountered while building this setup.
 
-👉 **Read the full article on Medium:** [LINK TO YOUR MEDIUM ARTICLE]
+👉 **Read the full article on Medium:** [\[LINK TO MEDIUM ARTICLE\]](https://medium.com/@patricio.sobrado/my-messy-battle-with-ai-environment-amnesia-on-windows-732a4f91e357)
 
 ## What's Inside
 
